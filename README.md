@@ -1,6 +1,8 @@
 # odin-recipes
 
-A project towards The Odin Project to build a recipe website. 
+This has been a project to build a basic recipe website, as part of 
+coursework for The Odin Project. 
 
-I will consolidate learning on html boilerplate, links to pages and links 
-to images, as well as tagging healings and lists.
+I have consolidated my learning of git, Visual Studio Code, html boilerplate, 
+heading tags, papargraph tags, ordered and unordered lists, links to pages, 
+images and to external websites.
