@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 512px;
+}
+
+h1 {
+    color: white;
+    background-color: darkslateblue;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif    
+}
+
+.centered-text {
+    text-align: center;
+}
